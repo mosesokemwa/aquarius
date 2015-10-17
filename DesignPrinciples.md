@@ -226,4 +226,37 @@ White spaces promotes elegance and sophistication, improves legibility and drive
 
 
 
-Excerpt from :[http://conversionxl.com/8-universal-web-design-principles-you-should-to-know/]
+#### 8: Occam’s Razor
+
+Occam’s razor is a principle urging one to select among competing hypotheses that which makes the fewest assumptions and thereby offers the simplest explanation of the effect. To put it in the design context, Occam’s Razor states that the simplest solution is usually best.
+
+In a post about their Angelpad experience, Pipedrive guys say the following:
+
+    The Angelpad team and mentors challenged us in many ways. 
+      “You have too many things on your home page” was something we didn’t agree with at first,
+      but we’re happy to test. And it turned out we had been wrong indeed. 
+      We removed 80% of the content, and left one sign-up button and 
+      one Learn More link on the home page. Conversion to sign up increased by 300%."
+
+![Simplicity](http://conversionxl.com/wp-content/uploads/2012/05/Pipedrive-homepage-before-and-after1.png)
+
+
+
+It’s not just about the looks, but also about ‘how it works’. Some companies – like 37Signals – have turned
+‘simple’ into a business model. Here’s a quote from the book Rework (written by their founders):
+
+    "Lots of people hate us because our products do less than the competition’s.
+    They’re insulted when we refuse to include their pet feature. But we’re just as 
+    proud of what our products don’t do as we are of what they do. We design them
+    to be simple because we believe most software is too complex: too many features,
+    too many buttons, too much confusion."
+
+Simple, minimal design does not automatically mean the design works, or is effective. But in my experience simple is always better than the opposite – and hence we should strive to simplify.
+
+###### Conclusion
+**Effective web design and art are not the same.**
+
+You should design for the user and by having a business objective in mind. Using these web design principles you can get to aesthetically and financially rewarding results.
+
+
+**Excerpt from**: http://conversionxl.com/8-universal-web-design-principles-you-should-to-know/
