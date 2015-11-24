@@ -259,4 +259,8 @@ Simple, minimal design does not automatically mean the design works, or is effec
 You should design for the user and by having a business objective in mind. Using these web design principles you can get to aesthetically and financially rewarding results.
 
 
-**Excerpt from**: http://conversionxl.com/8-universal-web-design-principles-you-should-to-know/
+**Excerpt from**: [8-universal-web-design-principles-you-should-to-know/](http://conversionxl.com/8-universal-web-design-principles-you-should-to-know/)
+
+* More reading resources
+  1. [Design Patterns](https://github.com/mussaimo/aquarius/raw/master/head_first_design_patterns.pdf)
+  2. [Interaction Design](https://github.com/mussaimo/aquarius/raw/master/designing-for-interaction.pdf)
