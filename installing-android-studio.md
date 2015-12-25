@@ -1,4 +1,4 @@
-### How do you install Android Studio for Ubuntu 14.04 LTS
+### How to install Android Studio for Ubuntu 14.04 LTS
 
 Android Studio depends on Java, and Oracle Java 7 or 8 is recommended
 
