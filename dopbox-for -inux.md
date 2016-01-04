@@ -1,0 +1,1 @@
+For mor information visit the official dropbox page [Dropbox](https://www.dropbox.com/install?os=lnx)
