@@ -1,5 +1,5 @@
-## Install sublime via the Package Manager(apt-get):
-#### Simply add to your packages:
+#### Install sublime via the Package Manager(apt-get):
+##### Simply add to your packages:
 
 ** For Sublime-Text-2:**
 
