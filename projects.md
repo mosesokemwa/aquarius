@@ -1,3 +1,8 @@
+### 100 Projects to Improve your Skills as a Programmer
+
+**A list of practical projects that anyone can solve in any programming language . These projects are divided in multiple categories, and each category has it's own folder.
+To get started, simply fork this github repo.**
+
 * Numbers
 
         Find PI to the Nth Digit - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
