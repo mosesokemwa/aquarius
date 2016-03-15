@@ -23,3 +23,5 @@ Readings for Front End Developers
 * A guide to automation.
 * Download the pdf and start automating.
   1. [Automate-the-Boring-Stuff-with-Python](https://github.com/mussaimo/aquarius/raw/master/Automate-the-Boring-Stuff-with-Python.pdf)
+  
+ ![The Dojocat](http://octodex.github.com/images/dojocat.jpg  "The Dojocat")
