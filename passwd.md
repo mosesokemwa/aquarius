@@ -2,7 +2,7 @@
 
 Boot up the machine, and after the BIOS screen, hold down the left **`Shift`** key. You will then be prompted by a menu that looks something like this:
 
-![The Stormtroopocat](ubuntu-screen-shot.png)
+![The Stormtroopocat](img/ubuntu-screen-shot.png)
 
 I've noticed on some systems that timing when to hit the left Shift key can be tricky, sometimes I miss it and need to try it again.
 
@@ -10,7 +10,7 @@ Hit the down arrow until you select the 2nd entry from the top (the one with the
 
 Now you should see this menu:
 
-![The Stormtroopocat](recovery.png)
+![The Stormtroopocat](img/recovery.png)
 
 Using the arrow keys scroll down to either root and then hit Enter.
 
