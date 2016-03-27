@@ -14,10 +14,12 @@ When you are ready to continue, read on.
 #### Install the Components from the Ubuntu Repositories
 Our first step will be install all of the pieces that we need from the repositories. We will install pip, the Python package manager, in order to install and manage our Python components. We will also install the database software and the associated libraries required to interact with them.
 
-The following apt commands will get you the packages you need:
+The following `apt` commands will get you the packages you need:
 
-sudo apt-get update
-sudo apt-get install python-pip python-dev libpq-dev postgresql postgresql-contrib
+```markdown
+    sudo apt-get update
+    sudo apt-get install python-pip python-dev libpq-dev postgresql postgresql-contrib
+```
 With the installation out of the way, we can move on to create our database and database user.
 
 Create a Database and Database User
