@@ -10,7 +10,7 @@ once installed you need to create a virtual environment in your projects folder
     virtualenv <env name>
 
     # python 3.4
-    virtualenv --python=python3.4 <env name> #python 3.4
+    virtualenv --python=python3.4 <env name>
 Now that we have a virtualenv environment, we need to activate it. This sets up various environment variables to effectively bypass the system's Python install and uses our env one instead. Activate like so:
 
     source ./env/bin/activate
