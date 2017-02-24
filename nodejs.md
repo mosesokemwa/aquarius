@@ -2,7 +2,7 @@ How can I update my nodeJS to the latest version
 
 **Node.js v5.x:**
 
-NOTE: If you are using Ubuntu Precise or Debian Wheezy, you might want to read about [running Node.js >= 4.x on older distros.](https://github.com/nodesource/distributions/blob/master/OLDER_DISTROS.md)
+NOTE: If you are using Ubuntu Precise or Debian Wheezy, you might want to read about [running Node.js >= 5.x on older distros.](https://github.com/nodesource/distributions/blob/master/OLDER_DISTROS.md)
 
 	# Using Ubuntu
 	curl -sL https://deb.nodesource.com/setup_5.x | sudo -E bash -
