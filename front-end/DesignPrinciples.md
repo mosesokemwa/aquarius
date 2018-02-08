@@ -20,7 +20,7 @@ Certain parts of your website are more important than others (forms, calls to ac
 
 You should rank elements on your website based on your business objective. If you don’t have a specific goal, you can’t know what to prioritize.
 
-The biggest eye catcher should take first place, followed by the headline which should take second place 
+The biggest eye catcher should take first place, followed by the headline which should take second place
 and call to action button (get it!). Fourth place goes to  a paragraph of text under the headline, fifth is the free services offered and the top navigation is last. This is visual hierarchy well done.
 
 
@@ -123,7 +123,7 @@ Notice how you could see the dog without focusing on each black spot that the do
 
 The key takeaway here is that people see the whole before they see the parts.
 People always see the whole of your website first, before they distinguish the header, menu,
-footer and so on. 
+footer and so on.
 As one of the founders of gestaltism Kurt Koffka said: the whole exists independently from the parts.
 
 There are 8 so-called gestalt design laws that allow us to predict how people will perceive something. Here they are:
@@ -159,7 +159,7 @@ the black dots look kind of similar to each other.
 
 **3. Law of Closure**
 
-We seek completeness. With shapes that aren’t closed, when parts of a whole picture are missing, 
+We seek completeness. With shapes that aren’t closed, when parts of a whole picture are missing,
 our perception fills in the visual gap. We see two squares overlaid on four circles even though none of these shapes actually exist in the graphic.
 
 
@@ -232,13 +232,13 @@ Occam’s razor is a principle urging one to select among competing hypotheses t
 
 In a post about their Angelpad experience, Pipedrive guys say the following:
 
-    The Angelpad team and mentors challenged us in many ways. 
+    The Angelpad team and mentors challenged us in many ways.
       “You have too many things on your home page” was something we didn’t agree with at first,
-      but we’re happy to test. And it turned out we had been wrong indeed. 
-      We removed 80% of the content, and left one sign-up button and 
+      but we’re happy to test. And it turned out we had been wrong indeed.
+      We removed 80% of the content, and left one sign-up button and
       one Learn More link on the home page. Conversion to sign up increased by 300%."
 
-![Simplicity](http://conversionxl.com/wp-content/uploads/2012/05/Pipedrive-homepage-before-and-after1.png)
+![Simplicity](http://conversionxl.com/wp-content/uploads/2012/05/Pipedrive-homepage-before-and-after1.pnzg)
 
 
 
@@ -246,7 +246,7 @@ It’s not just about the looks, but also about ‘how it works’. Some compani
 ‘simple’ into a business model. Here’s a quote from the book Rework (written by their founders):
 
     "Lots of people hate us because our products do less than the competition’s.
-    They’re insulted when we refuse to include their pet feature. But we’re just as 
+    They’re insulted when we refuse to include their pet feature. But we’re just as
     proud of what our products don’t do as we are of what they do. We design them
     to be simple because we believe most software is too complex: too many features,
     too many buttons, too much confusion."
@@ -262,5 +262,5 @@ You should design for the user and by having a business objective in mind. Using
 **Excerpt from**: [8-universal-web-design-principles-you-should-to-know/](http://conversionxl.com/8-universal-web-design-principles-you-should-to-know/)
 
 * More reading resources
-  1. [Design Patterns](https://github.com/mussaimo/aquarius/raw/master/head_first_design_patterns.pdf)
-  2. [Interaction Design](https://github.com/mussaimo/aquarius/raw/master/designing-for-interaction.pdf)
+  1. [Design Patterns](https://drive.google.com/open?id=1A2LP4P0sjcN-51LYlZR1ZrDJP-3wJXYQ)
+  2. [Interaction Design](https://drive.google.com/open?id=1mq0qXA1y4BW2bVjy6-YhUGoD31yFjxGs)
