@@ -12,8 +12,8 @@ Readings for Front End Developers
 # Smarter Way to Learn Books
 * Install Calibre E-book Viewer in Ubuntu Software Center. Search for "calibre" in the search box. The click install. [See the screenshot for more information](Install-Ebook-Reader-Screenshot.png).
 * Download both Ebook files in this repo:
-  1. [A Smarter Way to Learn HTML & CSS](https://github.com/mussaimo/aquarius/raw/master/A-Smarter-Way-to-Learn-HTML-%26-CSS.epub)
-  2. [A Smarter Way to Learn JavaScript](https://github.com/mussaimo/aquarius/raw/master/A-Smarter-Way-to-Learn-JavaScript.epub)
+  1. [A Smarter Way to Learn HTML & CSS](https://drive.google.com/open?id=1rtET27cXK5XfK3gFkvHIcBrX8kx4_SlB)
+  2. [A Smarter Way to Learn JavaScript](https://drive.google.com/open?id=1SQlnB3sD1jDfWfDXvLB04b4pWKnkVNyw)
 * Right click on the ebook files in Ubuntu, and open with E-book Viewer.
 
 # Introductory Javascript Excercises
@@ -22,6 +22,6 @@ Readings for Front End Developers
 # Automate the boring stuff with Python
 * A guide to automation.
 * Download the pdf and start automating.
-  1. [Automate-the-Boring-Stuff-with-Python](https://github.com/mussaimo/aquarius/raw/master/Automate-the-Boring-Stuff-with-Python.pdf)
-  
+  1. [Automate-the-Boring-Stuff-with-Python](https://drive.google.com/open?id=1LyZoOswUagX6LAqK6JwKZ9er8fQaRkWs)
+
  ![The Dojocat](http://octodex.github.com/images/dojocat.jpg  "The Dojocat")
