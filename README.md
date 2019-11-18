@@ -39,9 +39,6 @@ Contains dev tools and installation instructions and [scripts](https://github.co
   2. [A Smarter Way to Learn JavaScript](https://drive.google.com/open?id=1SQlnB3sD1jDfWfDXvLB04b4pWKnkVNyw)
 * Right click on the ebook files in Ubuntu, and open with E-book Viewer.
 
-# Introductory Javascript Excercises
-[Javascript Didacto](http://javascript.didacto.net/)
-
 # Automate the boring stuff with Python
 * A guide to automation.
 * Download the pdf and start automating.

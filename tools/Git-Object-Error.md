@@ -1,4 +1,4 @@
-#### Steps to fix
+#### Steps to fixing git object error
 
 
 show the empty/corrupt object file
