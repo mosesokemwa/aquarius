@@ -28,9 +28,6 @@ contains the following
 - Timezone in Django
 - Using postgreSQL with Django
 
-## Tools
-Contains dev tools and installation instructions and [scripts](https://github.com/mussaimo/installation-script)
-
 ### Books - Smarter Way to Learn
 * Install Calibre E-book Viewer in Ubuntu Software Center. Search for "calibre" in the search box.
   Then click install. [See the screenshot for more information](Install-Ebook-Reader-Screenshot.png).
