@@ -76,7 +76,7 @@ When writing any block of code that is logically subordinate to the line immedia
         }});
         ```
 
-    * use sublime's arrow collapsing as a guide. do the collapsing lines seem like they should be 'contained' by the line with an arrow on it?
+    * use sublimes arrow collapsing as a guide. do the collapsing lines seem like they should be 'contained' by the line with an arrow on it?
 
 
 ### Variable names
